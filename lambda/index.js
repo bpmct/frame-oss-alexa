@@ -154,8 +154,13 @@ const ErrorHandler = {
     console.log(`~~~~ Error handled: ${JSON.stringify(error)}`);
 
     return handlerInput.responseBuilder
-      .speak(speakOutput)
-      .reprompt(speakOutput)
+      .speak(
+        "This is the text Alexa speaks. Go to the Alexa app to see the card!"
+      )
+      .withSimpleCard(
+        "This is the Title of the Card",
+        "This is the card content. This card just has plain text content.\r\nThe content is formated with line breaks to improve readability."
+      )
       .getResponse();
   },
 };
