@@ -2,7 +2,7 @@
 
 Alexa skill for [frame-oss](https://github.com/bpmct/frame-oss), open digital picture frame software.
 
-⚠️ This doesn't work yet. I have an Amazon Echo Show 5 and will be occasionally working on this to achieves the following functionality:
+⚠️ This doesn't work yet. I have an Amazon Echo Show 5 and will be occasionally working on this to achieve the following functionality:
 
 - Show your photo gallery on Echo Show clock instead of the limited options with the photo gallery
 - Open browser with full frame upon request (e.g "Alexa, open smart frame")
