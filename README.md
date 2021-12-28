@@ -1,6 +1,6 @@
 # frame-oss-alexa
 
-Alexa skill for [frame-oss](https://github.com/bpmct/frame-oss), open digital picture frame software.
+Alexa skill for [frame-oss](https://github.com/bpmct/frame-oss), open source digital picture frame software.
 
 ⚠️ This doesn't work yet. I have an Amazon Echo Show 5 and will be occasionally working on this to achieve the following functionality:
 
